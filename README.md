@@ -18,3 +18,12 @@ Tecnologias utilizadas:
 - AWS
 - Git
 - GitHub
+
+## O que contém em cada pasta
+
+- data/raw: arquivos com os dados brutos.
+- data/processed: arquivos com os dados limpos e tratados para a análise.
+- notebooks: EDA (Análise exploratória de dados).
+- src: Scripts em python.
+- sql: Scripts SQL.
+- docs: Documentação adicional.
